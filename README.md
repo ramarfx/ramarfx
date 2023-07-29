@@ -12,9 +12,6 @@
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
-<li>
-<b>Working:</b> PT.Mencari AI Sejati
-</li>
 <br><br><br>
 </div>
 <div>
