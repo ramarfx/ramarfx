@@ -31,8 +31,9 @@ gatau lorem ipsum aja lah <br>
 <br>
 <div>
 
-
-  ![ramarfx](https://count.getloli.com/get/@ramarfx?theme=moebooru)
+<div align="center">
+  <img src="https://count.getloli.com/get/@ramarfx?theme=moebooru" alt="ramarfx"/>
+</div>
 
 <h2 align="center">Sekian</h2>
 </div>
