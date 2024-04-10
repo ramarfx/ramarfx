@@ -10,7 +10,7 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b>Graphic Design, Web Development
 </li>
 <br><br><br>
 </div>
