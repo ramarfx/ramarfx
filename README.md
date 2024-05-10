@@ -1,7 +1,7 @@
 <img src="./assets/firefly-header.png">
 <div style="">
 
-  <img src="./assets/firefly-face.jpg" width="337px" height="337" style="border-radius: 10px 10px" align=right>
+  <img src="./assets/firefly-sam.jpeg" width="337px" height="337" style="border-radius: 10px 10px" align=right>
   <div style="">
   <img src="./assets/sam-aboutme.jpg" width="480">
   <br>
