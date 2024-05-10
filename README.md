@@ -5,9 +5,16 @@
 
   <div style="">
 
+  <h1>About Me</h2>
+
   - Name **Ramadina Al Muzthazam**
+  
   - Live in **Jakarta Timur**
+  
   - Familiar with **GNU/Linux** and **FreeBSD**
-  - Good with **JavaScript** and **PHP** 
+  
+  - Good with **JavaScript**, **PHP**, **React**, **Laravel** and **THREE.js**
+
+  <img src="./assets/firefly-peace.png" width="100" align="left">
   </div>
 </div>
