@@ -4,7 +4,7 @@
   <img src="./assets/firefly-face.jpg" width="337px" height="337" style="border-radius: 10px 10px" align=right>
 
   <div style="">
-  <img src="./assets/sam-aboutme.jpg" width="488">
+  <img src="./assets/sam-aboutme.jpg" width="480">
   <br>
   <br>
 
@@ -16,7 +16,11 @@
   
   - Good with **JavaScript**, **PHP**, **React**, **Laravel** and **THREE.js**
 
-  <img src="./assets/sam-project.jpg" width="488">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarfx&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+  <br>
+  <br>
+
+  <img src="./assets/sam-project.jpg" width="480">
   <br>
   <br>
 
