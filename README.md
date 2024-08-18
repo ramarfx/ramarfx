@@ -1,10 +1,17 @@
 <img src="./assets/firefly-header.png">
 <div style="">
 
+    
   <div style="">
+
+    
   <img src="./assets/sam-aboutme.jpg" width="480">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarfx&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
   <br>
   <br>
+
+
 
   - Name **Ramadina Al Muzthazam**
   
@@ -18,7 +25,7 @@
   
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarfx&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+
 
   <img src="./assets/sam-project.jpg" width="480">
   <br>
