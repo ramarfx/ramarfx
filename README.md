@@ -37,5 +37,7 @@
   a web application created in the context of the LigaSMK x WPU competition with the theme of online announcements such as wall magazines
 - 📙 [***ramarfx/inditech***](https://indi.tech) <br/>
   Indi.tech - 3D landing page created using THREE.js for industrial class activities from PT. Indi Technology
+- 📙 [***ramarfx/username-roasting***](https://username-roasting.vercel.app) <br/>
+  My first project inegrating AI in website using Gemini as the model also React and Typescrpt the technologies
   </div>
 </div>
