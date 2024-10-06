@@ -19,7 +19,7 @@
   
   - Familiar with **Illustrator** and **Photoshop**
   
-  - Good with **JavaScript**, **TypeScript**, **PHP**, **React**, **Laravel** and **THREE.js**
+  - Good with **JavaScript**, **TypeScript**, **Django**, **React**, **Laravel** and **THREE.js**
 
   - [**Check My Portfolio 🪲**](https://ramarfx.vercel.app)
   
