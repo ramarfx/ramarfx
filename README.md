@@ -21,7 +21,7 @@
   
   - Good with **JavaScript**, **TypeScript**, **Django**, **React**, **Laravel** and **THREE.js**
 
-  - [**Check My Portfolio 🪲**](https://ramarfx.vercel.app)
+  - [**Check My Portfolio 🪲**](https://ramarfx.my.id)
   
   <br>
   <br>
