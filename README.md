@@ -41,3 +41,5 @@
   My first project inegrating AI in website using Gemini as the model also React and Typescrpt the technologies
   </div>
 </div>
+
+[![An image of @ramarfx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramarfx)](https://holopin.io/@ramarfx)
