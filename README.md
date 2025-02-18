@@ -1,6 +1,7 @@
 <img src="./assets/firefly-header.png">
 <div style="">
 
+
     
   <div style="">
 
@@ -31,8 +32,7 @@
   <br>
   <br>
 
-  - 📗 [***ramarfx/rebellum***](https://github.com/ramarfx/rebellum) <br/>
-  landing page with the theme of juvenile delinquency created in the context of the 2024 AWS static web competition
+
   - 📘 [***ramarfx/e-mading***](https://github.com/ramarfx/e-mading) <br/>
   a web application created in the context of the LigaSMK x WPU competition with the theme of online announcements such as wall magazines
 - 📙 [***ramarfx/inditech***](https://indi.tech) <br/>
