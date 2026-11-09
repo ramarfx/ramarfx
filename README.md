@@ -1,6 +1,6 @@
 <img src="./assets/teto-header.png" alt="Welcome to my profile">
 
-<img src="./assets/teto-aboutme.jpg" alt="About me">
+<img src="./assets/teto-chibi.png" align="right" width="240" alt="Kasane Teto chibi" />
 
 - Name **Ramadina Al Muzthazam**
 - Live in **Jakarta Timur**
@@ -9,9 +9,7 @@
 - Kasane Teto enthusiast (重音テト), favorite track: ライラック by chiyo ft. Kasane Teto
 - [**Check My Portfolio 🪲**](https://ramarfx.my.id)
 
-<p align="center">
-  <img src="./assets/teto-chibi.png" width="240" alt="Kasane Teto chibi" />
-</p>
+<br>
 
 <img src="./assets/teto-techstack.jpg" alt="Tech Stack">
 
