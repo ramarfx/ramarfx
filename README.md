@@ -8,7 +8,7 @@
     
   <img src="./assets/teto-aboutme.jpg" width="480" alt="About me">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarfx&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=FF3B5C&text_color=ADBAC7&text_bold=true" align=right />
+  <img src="./assets/teto-chibi.png" align=right width="300" alt="Kasane Teto chibi" />
   <br>
   <br>
 
