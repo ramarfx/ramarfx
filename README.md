@@ -1,4 +1,4 @@
-<img src="./assets/teto-header.png">
+<img src="./assets/teto-header.png" alt="Welcome to my profile">
 <div style="">
 
 
@@ -6,7 +6,7 @@
   <div style="">
 
     
-  <img src="./assets/teto-aboutme.jpg" width="480">
+  <img src="./assets/teto-aboutme.jpg" width="480" alt="About me">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarfx&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=FF3B5C&text_color=ADBAC7&text_bold=true" align=right />
   <br>
@@ -31,7 +31,7 @@
 
 
 
-  <img src="./assets/teto-project.jpg" width="480">
+  <img src="./assets/teto-project.jpg" width="480" alt="Projects">
   <br>
   <br>
 
